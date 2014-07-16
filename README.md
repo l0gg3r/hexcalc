@@ -3,7 +3,7 @@ hexcalc
 
 Simple command line tool for hexadecimal (aslo hexadecimal and decimal mixed) calculations
 
-==Purpose
+### Purpose
 Tool is very usefull when you are working with terminal,
 Some times, it's necessary to calculate address and set a breakpoint,
 I got crazy openning hex calculator, converting decimals to hexadecimals, calculating, and going back to terminal.
