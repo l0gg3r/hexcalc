@@ -9,19 +9,19 @@ Some times, it's necessary to calculate address and set a breakpoint,
 I got crazy openning hex calculator, converting decimals to hexadecimals, calculating, and going back to terminal.
 Thats why I wrote this small tool.
 
-==Compilation
+### Compilation
 <pre>
 gcc main.c -o bin/hexcalc
 </pre>
 
-==Instalation
+### Instalation
 <pre>
 sudo cp bin/hexcalc /usr/bin
 </pre>
 
 or if you're running under osx, see already compiled file  (bin/hexcalc)
 
-==Usage
+### Usage
 Conversions
 <pre>
 $>> hexcalc 12345
